@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/createreact/static/css/main.c7863a03.css",
+    "main.js": "/createreact/static/js/main.9689088e.js",
+    "static/js/496.498a8fd5.chunk.js": "/createreact/static/js/496.498a8fd5.chunk.js",
+    "static/media/SEGA.woff": "/createreact/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/createreact/index.html",
+    "main.c7863a03.css.map": "/createreact/static/css/main.c7863a03.css.map",
+    "main.9689088e.js.map": "/createreact/static/js/main.9689088e.js.map",
+    "496.498a8fd5.chunk.js.map": "/createreact/static/js/496.498a8fd5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7863a03.css",
+    "static/js/main.9689088e.js"
+  ]
+}
